@@ -1,10 +1,10 @@
-print('hello, это проект'
-      or i range('red')
-pint('пока)
-     a = weapon(
-     b = input(in('my name')
-c = int(iput('my surname'
-print('buy)
-             for  range(black')
-v  hp()
- = bow()             
+print('hello, это проект')
+for i in range(red):
+      print('пока')
+a = weapon()
+b = input('my name')
+c = input('my surname')
+print('buy')
+for i in range(black):
+      v = hp()
+      y = bow()             
