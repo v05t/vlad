@@ -44,7 +44,7 @@ class Wall(sprite.Sprite):
     def ris(self):
         okno.blit(self.image,(self.rect.x,self.rect.y))
 
-stena = [Wall(250,100,100,50), Wall(200,100,100,50), Wall(50,250,100,50)]
+stena = [Wall(250,100,100,50), Wall(200,190,190,50), Wall(100,250,100,100), Wall(300,250,130,50),  Wall(200,500,100,50)]
 
 lose = False
 win = False
